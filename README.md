@@ -1,4 +1,4 @@
-<h1> Booknarks App </h1>
+<h1> Bookmarks App </h1>
 
 https://thinkful-ei-orka.github.io/tecarra-bookmarks-app/.
 
