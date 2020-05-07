@@ -3,7 +3,7 @@
 * {
     box-sizing: border-box;
     font-family: 'Josefin Sans', sans-serif;
-    color: #24057a;
+    color: rgb(9, 86, 138);
 }
 
 body {
@@ -51,11 +51,11 @@ h1 {
 }
 
 .add-button {
-    background-color: #24057a;
+    background-color: #09568a;
     border: none;
     color: white;
     padding: 10px;
-    border: 1px #24057a;
+    border: 1px hsl(184, 96%, 27%);
     text-align: center;
     text-decoration: none;
     font-size: 20px;
@@ -104,7 +104,7 @@ h1 {
 }
 
 .expand-button, .delete-button {
-    background-color:#24057a;
+    background-color:#09568a;
     border: none;
     color: white;
     text-align: center;
@@ -124,7 +124,7 @@ h1 {
 }
 
 .delete-button {
-    background-color:#24057a;
+    background-color:09568a;
     border: 1px rgb(94, 94, 94) solid;
     font-weight: normal;
 }
@@ -162,7 +162,7 @@ a:hover {
 }
 
 .condense-button {
-    background-color: #24057a;
+    background-color: #09568a;
     border: none;
     color: white;
     text-align: center;
@@ -230,11 +230,11 @@ a:hover {
 }
 
 .form-button {
-    background-color: #24057a;
+    background-color: #09568a;
     border: none;
     color: white;
     padding: 15px 32px;
-    border: 1px #24057a;
+    border: 1px #09568a;
     text-align: center;
     text-decoration: none;
     font-size: 16px;
@@ -242,7 +242,7 @@ a:hover {
 }
 
 .cancel-bookmark-button {
-    background-color: #24057a;
+    background-color: #09568a;
     border: 1px rgb(94, 94, 94) solid;
     font-weight: normal;
 }
